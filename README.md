@@ -10,22 +10,22 @@ This repository contains automated tests using Playwright to test the functional
 
 1. Clone this repository:
 
-     git clone https://github.com/your-username/playwright-testing-vcgamers.git
+          git clone https://github.com/VCGamersQA/playwright_test.git
   
 2. Install playwright on project file
 
 
-      npm init playwright@latest
+           npm init playwright@latest
       
       
 3. Run all test
 
-      npx playwright test
+           npx playwright test
       
       
 4. Show test report
 
-      npx playwright show-report
+           npx playwright show-report
       
       
       For more information on link : https://playwright.dev/docs/intro
