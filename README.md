@@ -1,27 +1,24 @@
-# Playwright Testing for app.vcgamers.io or app.vcgamers.com
-
+Playwright Testing for app.vcgamers.io or app.vcgamers.com
 This repository contains automated tests using Playwright to test the functionality of the app.vcgamers.io website.
 
-## Prerequisites
+Prerequisites
+Node.js: Make sure you have Node.js installed on your machine.
+Getting Started
 
-- Node.js: Make sure you have Node.js installed on your machine.
+Clone this repository:
 
-## Getting Started
+bash
+Copy code
+git clone https://github.com/VCGamersQA/playwright_test.git
+or download the ZIP file.
 
-1. Clone this repository:
+Install the required dependencies by navigating to the cloned repository directory and running the following command:
 
-   ```bash
-   git clone https://github.com/VCGamersQA/playwright_test.git 
-   or download the ZIP file 
-   
-   
-2. Install playwright on your project
+npm install
+Run the tests by executing the following command:
 
--> npm init playwright@latest
+npx playwright test
 
-* Run all test
--> npx playwright test 
+After the tests complete, you can view the test report by running the following command:
 
-* Show test report
--> npx playwright show-report
- 
+npx playwright show-report
