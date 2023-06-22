@@ -12,9 +12,7 @@ This repository contains automated tests using Playwright to test the functional
 
    git clone https://github.com/VCGamersQA/playwright_test.git
 
-2. Install the required dependencies:
-   
-Navigate to the cloned repository directory and run the following command to install the necessary dependencies:
+2. Install playwright on the project file
 
     npm init playwright@latest
     
