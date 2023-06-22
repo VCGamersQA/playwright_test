@@ -11,7 +11,8 @@ This repository contains automated tests using Playwright to test the functional
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/VCGamersQA/playwright_test.git or download the ZIP file 
+   git clone https://github.com/VCGamersQA/playwright_test.git 
+   or download the ZIP file 
    
    
 2. How to run test 
