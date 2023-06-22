@@ -15,4 +15,12 @@ This repository contains automated tests using Playwright to test the functional
    
    
 2. How to run test 
+* Install playwright on your project
+npm init playwright@latest
+
+* Run all test
+npx playwright test 
+
+* Show test report
+npx playwright show-report
  
