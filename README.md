@@ -14,7 +14,7 @@ This repository contains automated tests using Playwright to test the functional
 
 2. Install playwright on the project file
 
-    npm init playwright@latest
+       npm init playwright@latest
     
 3. Run the tests:
 
