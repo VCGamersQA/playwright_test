@@ -15,6 +15,7 @@ This repository contains automated tests using Playwright to test the functional
 2. Install the required dependencies:
    
 Navigate to the cloned repository directory and run the following command to install the necessary dependencies:
+
     npm init playwright@latest
     
 3. Run the tests:
