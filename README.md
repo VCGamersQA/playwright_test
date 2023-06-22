@@ -15,11 +15,9 @@ This repository contains automated tests using Playwright to test the functional
    or download the ZIP file 
    
    
-2. How to run test 
-* Install playwright on your project
-npm init playwright@latest
+2. How to run test and Install playwright on your project
 
-* Run all test
+npm init playwright@latest
 npx playwright test 
 
 * Show test report
